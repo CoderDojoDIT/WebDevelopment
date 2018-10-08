@@ -1,0 +1,19 @@
+body{
+  background-color: powderblue;
+}
+h1{
+  color:blue;
+}
+
+p{
+  color:white;
+}
+
+#myParagraph{
+  color:black;
+}
+
+img.resize {
+    width:100px; /* you can use % */
+    height: auto;
+}
